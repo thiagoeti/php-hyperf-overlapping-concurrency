@@ -15,7 +15,7 @@ It is extremely important that HyperF processes do not overwrite shared variable
 composer create-project hyperf/hyperf-skeleton "project"
 ```
 
-#### Install - Watcher
+#### Watcher - Install
 
 ```console
 composer require hyperf/watcher --dev
